@@ -1,5 +1,9 @@
 ## Welcome to my Github! 👋
 
+My name is Ian Wijma and I'm a Open Source and Linux Advocate. I love thinkering with code and ideas.
+
+---
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ianwijma&theme=darkhub&no-frame=true)](https://github.com/ianwijma)
 

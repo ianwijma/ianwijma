@@ -13,11 +13,17 @@ My name is Ian Wijma and I'm a Open Source and Linux Advocate. I love thinkering
 
 <div>
   <a href="https://github.com/ianwijma">
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ianwijma&include_all_commits=true" />
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ianwijma&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" />
   <a/>
   <a href="https://github.com/ianwijma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianwijma&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianwijma&layout=compact&show_icons=true&theme=dark&hide_border=true" />
   <a/>
 </div>
+
+> [Get some stats](https://github.com/anuraghazra/github-readme-stats)
+
+---
+    
+[![Coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=ianwijma&theme=dark&hide_border=true)](https://wakatime.com/@ianwijma)
 
 > [Get some stats](https://github.com/anuraghazra/github-readme-stats)

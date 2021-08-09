@@ -14,8 +14,6 @@ See below for my high lighted repo's.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ianwijma&theme=darkhub&no-frame=true)](https://github.com/ianwijma)
 
-> [Get some trophies](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 <div>
@@ -27,10 +25,18 @@ See below for my high lighted repo's.
   <a/>
 </div>
 
-> [Get some stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
     
 [![Coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=ianwijma&theme=dark&hide_border=true)](https://wakatime.com/@ianwijma)
 
-> [Get some stats](https://github.com/anuraghazra/github-readme-stats)
+---
+    
+### Projects used:
+    
+- Profile view counter: [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- The tropies: [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+- Repo stats: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- Coding activity: [wakatime.com](https://wakatime.com) with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+    
+    

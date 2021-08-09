@@ -1,6 +1,13 @@
 ## Welcome to my Github! 👋
 
-My name is Ian Wijma and I'm a Open Source and Linux Advocate. I love thinkering with code and ideas.
+My name is Ian Wijma and I'm a Open Source and Linux Advocate with 7 years development experience and 9 years experience with Linux. 
+
+My hobbies are gaming, cooking and software development. Where I love trying out concepts idea's I've.
+
+See below for my high lighted repo's. 
+
+
+![](https://komarev.com/ghpvc/?username=ianwijma&color=blueviolet)
 
 ---
 

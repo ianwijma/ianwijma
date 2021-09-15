@@ -25,11 +25,6 @@ See below for my high lighted repo's.
   <a/>
 </div>
 
-
----
-    
-[![Coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=ianwijma&theme=dark&hide_border=true)](https://wakatime.com/@ianwijma)
-
 ---
     
 ### Projects used:
@@ -37,6 +32,5 @@ See below for my high lighted repo's.
 - Profile view counter: [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 - The tropies: [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 - Repo stats: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Coding activity: [wakatime.com](https://wakatime.com) with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
     
     

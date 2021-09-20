@@ -1,10 +1,8 @@
 ## Welcome to my Github! 👋
 
-My name is Ian Wijma and I'm a Open Source and Linux Advocate with 7 years development experience and 9 years experience with Linux. 
+Using my 8 years of software developing experience, I bring added value to your team or project. I have a great drive to quickly learn and apply new and exciting technologies, where mastering existing technologies is something I love doing!
 
-My hobbies are gaming, cooking and software development. Where I love trying out concepts idea's I've.
-
-See below for my high lighted repo's. 
+I have great experience with the following technologies: Linux, JavaScript, TypeScript, NodeJS, NextJS, Framer motion, NestJS, React, React Native, VueJS, TailWindCSS, AWS, PHP, Laravel, PostgreSQL, MySQL, Git, Mercurial, Cordova.
 
 
 ![](https://komarev.com/ghpvc/?username=ianwijma&color=blueviolet)

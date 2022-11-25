@@ -1,4 +1,4 @@
-## Welcome to my Github! 👋
+## Software Developer • Full Stack • SAAS • PHP/JS/Linux/UX • Remote 👋
 
 I'm a customer-oriented and result-driven software developer; besides technical knowledge, I also possess soft skills like coaching/teaching, writing documentation, presenting, decision making and asking the how and why. These, combined with my overall cheerful attitude towards work and life, I will be a joy to work with. 
 

@@ -1,8 +1,8 @@
 ## Welcome to my Github! 👋
 
-Using my 8 years of software developing experience, I bring added value to your team or project. I have a great drive to quickly learn and apply new and exciting technologies, where mastering existing technologies is something I love doing!
+I'm a customer-oriented and result-driven software developer; besides technical knowledge, I also possess soft skills like coaching/teaching, writing documentation, presenting, decision making and asking the how and why. These, combined with my overall cheerful attitude towards work and life, I will be a joy to work with. 
 
-I have great experience with the following technologies: Linux, JavaScript, TypeScript, NodeJS, NextJS, Framer motion, NestJS, React, React Native, VueJS, TailWindCSS, AWS, PHP, Laravel, PostgreSQL, MySQL, Git, Mercurial, Cordova.
+Besides these soft skills, I have experience working with the following technologies & languages: Linux, JavaScript, NodeJS, PHP, TypeScript, Perl, Ruby, macOS, Docker, Kubernetes, Proxmox VE, Laravel, React, React Native, NextJS, NestJS, AWS, VueJS, PostgreSQL, MySQL, Git, Mercurial, Cordova.
 
 
 ![](https://komarev.com/ghpvc/?username=ianwijma&color=blueviolet)

@@ -1,8 +1,8 @@
 ## Software Developer • Full Stack • SAAS • PHP/JS/Linux/UX • Remote 👋
 
-I'm a customer-oriented and result-driven software developer; besides technical knowledge, I also possess soft skills like coaching/teaching, writing documentation, presenting, decision making and asking the how and why. These, combined with my overall cheerful attitude towards work and life, I will be a joy to work with. 
+With eight years of product and software development experience, I bring customer-oriented features to your product. Using my incredible drive to learn existing and new technologies quickly. Where mastering these technologies is something I love doing!
 
-Besides these soft skills, I have experience working with the following technologies & languages: Linux, JavaScript, NodeJS, PHP, TypeScript, Perl, Ruby, macOS, Docker, Kubernetes, Proxmox VE, Laravel, React, React Native, NextJS, NestJS, AWS, VueJS, PostgreSQL, MySQL, Git, Mercurial, Cordova.
+I have hands-on experience with the following technologies & languages: Linux, JavaScript, NodeJS, PHP, TypeScript, Perl, Ruby, macOS, Docker, NextJS, Laravel, React, React Native, Kubernetes (K8S/K3S), Proxmox VE, NestJS, AWS, VueJS, PostgreSQL, MySQL, Git, Mercurial, Cordova.
 
 
 ![](https://komarev.com/ghpvc/?username=ianwijma&color=blueviolet)

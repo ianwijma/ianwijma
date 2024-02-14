@@ -1,4 +1,4 @@
-## Software Developer • Full Stack • SAAS • PHP/JS/Linux/UX • Remote 👋
+## Software Developer • Full Stack • SAAS • JS/PHP/Linux/UX • Remote 👋
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ianwijma" />
 

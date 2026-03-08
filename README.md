@@ -17,7 +17,5 @@ I have hands-on experience with the following technologies & languages: Linux, T
 ### Projects used:
     
 - Profile view counter: [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-- The tropies: [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-- Repo stats: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
     
     
